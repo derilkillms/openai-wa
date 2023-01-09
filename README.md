@@ -7,7 +7,7 @@ WHATSAPP OPENAI
 
 `npm install whatsapp-web.js`
 
-`npm install qr-code-terminal`
+`npm install qrcode-terminal`
 
 `npm install openai`
 
