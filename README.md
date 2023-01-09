@@ -1,5 +1,5 @@
 # openai-wa
-WHATSAPP OPENAI
+WHATSAPP OPENAI BOT
 
 ## Get OPENAI_API
 basic openai with php  https://github.com/derilkillms/openaiphp
