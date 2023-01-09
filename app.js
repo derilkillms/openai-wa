@@ -42,7 +42,7 @@ client.on('message', async (message) => {
     //replying with media
     
     client.sendMessage(message.from, media, {
-      caption: 'prompt',
+      caption: prompt,
     });
     
   }
