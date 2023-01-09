@@ -3,7 +3,7 @@ WHATSAPP OPENAI
 
 `npm install dotenv`
 
-`npm install whatsapp-web.js
+`npm install whatsapp-web.js`
 
 `npm install qr-code-terminal`
 
