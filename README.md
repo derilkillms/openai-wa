@@ -1,6 +1,9 @@
 # openai-wa
 WHATSAPP OPENAI
 
+## Get OPENAI_API
+basic openai with php  https://github.com/derilkillms/openaiphp
+
 ## Installation
 
 `npm install dotenv`
