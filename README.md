@@ -1,14 +1,12 @@
 # openai-wa
 WHATSAPP OPENAI
 
-`
-npm install dotenv
+`npm install dotenv`
 
-npm install whatsapp-web.js
+`npm install whatsapp-web.js
 
-npm install qr-code-terminal
+`npm install qr-code-terminal`
 
-npm install openai
+`npm install openai`
 
-node app.js
-`
+`node app.js`
